@@ -1,6 +1,6 @@
 # Desafio 01 - Fundamentos do Node.js
 
-Bem-vindo ao primeiro desafio da trilha de **Node.js** do **Ignite**! Este projeto é uma API que implementa um CRUD para gerenciamento de tarefas (*tasks*) e a funcionalidade de importação de dados em massa a partir de arquivos CSV.
+Repositório do primeiro desafio da trilha de **Node.js** do **Ignite**! Este projeto é uma API que implementa um CRUD para gerenciamento de tarefas (*tasks*) e a funcionalidade de importação de dados em massa a partir de arquivos CSV.
 
 ## 🚀 Funcionalidades
 
@@ -53,5 +53,5 @@ Cada tarefa contém as seguintes propriedades:
 ### Passo a Passo
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/desafio-01-fundamentos-nodejs.git
+   git clone https://github.com/seu-usuario/desafio-01-fundamentos-nodejs.git](https://github.com/AlexandreNMota/Desafio-01---Trilha-Node---Rocketseat.git
    cd desafio-01-fundamentos-nodejs
