@@ -39,10 +39,10 @@ Cada tarefa contém as seguintes propriedades:
 ## 🛠 Tecnologias Utilizadas
 
 - **Node.js**
-- **Express**: Framework para criação da API.
 - **Streams**: Manipulação eficiente de arquivos CSV.
 - **UUID**: Geração de identificadores únicos.
 - **fs**: Manipulação de arquivos.
+- **csv-parse**: Leitura de arquivo csv.
 
 ## 📦 Como Executar o Projeto
 
