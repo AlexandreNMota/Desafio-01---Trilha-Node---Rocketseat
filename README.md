@@ -55,3 +55,4 @@ Cada tarefa contém as seguintes propriedades:
    ```bash
    git clone https://github.com/seu-usuario/desafio-01-fundamentos-nodejs.git](https://github.com/AlexandreNMota/Desafio-01---Trilha-Node---Rocketseat.git
    cd desafio-01-fundamentos-nodejs
+   npm run dev
